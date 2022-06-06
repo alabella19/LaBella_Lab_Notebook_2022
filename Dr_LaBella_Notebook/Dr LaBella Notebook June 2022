@@ -1,0 +1,5 @@
+## June 6th 2022
+
+__Project__ Begin analysis of Reverse Jump MCMC results produced in BayesTraits. This analysis will help us understand the co-evolution of binary growth traits and generalism/specialism in budding yeasts
+
+__Methods__ I am analyzing the trace files generated from the RJ MCMC to ensure adequate converence of the chain. 
