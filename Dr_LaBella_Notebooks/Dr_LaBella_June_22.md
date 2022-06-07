@@ -31,3 +31,6 @@ __Methods__
 - Updated trace_to_model_counts.Rmd
 - Worked on making figures to show distribution of growth traits in generalists 
 
+__Results__ 
+
+I think I've identified which auxiliary sugars are added after a species becomes a generalist. I could test to see if that growth is correlated with another core growth?
