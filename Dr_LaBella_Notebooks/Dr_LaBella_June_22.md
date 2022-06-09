@@ -34,3 +34,20 @@ __Methods__
 __Results__ 
 
 I think I've identified which auxiliary sugars are added after a species becomes a generalist. I could test to see if that growth is correlated with another core growth?
+
+
+## June 8 2022
+
+__Goals__ 
+
+Analyze the RJ MCMC analysis 
+
+__Methods__
+
+__Results__
+
+The MCMC runs were not finished for the anlayses I wanted to conduct. So I worked on figures for the manuscript including Figures 2c and 2d. I also used most of my time to work on finishing the ontology we started. I got all the classes finished!! Now we just have to add the different instances.
+
+## June 9 2022
+
+_Today was a day of catching up on UNC-Charlotte activities_
