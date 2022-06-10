@@ -51,3 +51,14 @@ The MCMC runs were not finished for the anlayses I wanted to conduct. So I worke
 ## June 9 2022
 
 _Today was a day of catching up on UNC-Charlotte activities_
+
+
+## June 10 2022
+
+__Goals__
+
+Analyse RJ MCMC Analysis
+
+__Results__
+
+First - apparently for a single trait the RJ MCMC cannot do a restricted analysis. It never runs a single iteration in about 2 days. So I assume I will have to use the Unrestricted to see if there is evidence of one of the rates not being zero?
