@@ -62,3 +62,15 @@ Analyse RJ MCMC Analysis
 __Results__
 
 First - apparently for a single trait the RJ MCMC cannot do a restricted analysis. It never runs a single iteration in about 2 days. So I assume I will have to use the Unrestricted to see if there is evidence of one of the rates not being zero?
+
+##June 13 2022
+
+__Goals__
+
+Wrap up MCMC analysis and move on to KEGG anlaysis for the evolutionary patterns of generalist and specialist species
+
+__Results__
+
+L_Arabinose didn't run correctly and needs to be re-run. Should be done tomorrow. 
+
+Working on verifying novoparasiticus results from Miya's work. Downloading the genome and annotation to start. 
