@@ -73,4 +73,6 @@ __Results__
 
 L_Arabinose didn't run correctly and needs to be re-run. Should be done tomorrow. 
 
-Working on verifying novoparasiticus results from Miya's work. Downloading the genome and annotation to start. 
+Working on verifying novoparasiticus results from Miya's work. Downloading the genome and annotation to start. I got a slightly higher S-value than Miya did but it's still not very high. I could investigate why this is?
+
+Now analyzing the "normal" yeast Reverse Jump Bayes Traits analysis to see the rates of trait gain and loss in this group
