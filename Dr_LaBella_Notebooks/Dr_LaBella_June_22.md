@@ -99,3 +99,8 @@ Today has been rough! I've done the following things
 3. Replace the dumb IRI with our actual annotations
 
 Now I'm working on getting the annotations working
+
+Ok so in order to use UFO I have to change the syntax from
+is_a: Human_animal_type
+to
+is_a: Human_animal_type ! Human_animal_type
