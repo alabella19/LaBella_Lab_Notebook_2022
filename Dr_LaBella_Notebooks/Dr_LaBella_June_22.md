@@ -84,3 +84,18 @@ __Goals__
 - Finish Bayes Traits analysis round 1 - launch second set of analyses if ACCRE permits
 - Finish Eco Ontolgy and start looking up analyses that I can do for enrichment
 - Do I have time to do some analyses for the talk??
+
+## June 15 2022
+
+__Summary__
+
+Today has been rough! I've done the following things
+- Downloaded the ontology from the web protege 
+- Used the desktop protege to identify errors in the ontology - aka I resolved multple conflicts where an object was a subclass of disjointed classes
+- I have now been trying to get the ontology into a visualization analysis platform HOWEVER I think I can just extract the names for each annotation and then do some sort of fishers exact test to see if anything is enriched in our groups... but we'll see
+- I was able to get the ontology into cytoscape using the following things:
+1. Save the ontology in OBO format
+2. Use python script to convert OBO into SIF format
+3. Replace the dumb IRI with our actual annotations
+
+Now I'm working on getting the annotations working
