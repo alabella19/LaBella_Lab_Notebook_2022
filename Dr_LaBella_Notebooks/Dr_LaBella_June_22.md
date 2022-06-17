@@ -104,3 +104,7 @@ Ok so in order to use UFO I have to change the syntax from
 is_a: Human_animal_type
 to
 is_a: Human_animal_type ! Human_animal_type
+
+## June 17th 
+
+I need to write a custom script to extract all the ancestors from the ontology - this way I can preform an enrichment test _not_ just on the decendents. 
